@@ -1,7 +1,7 @@
-Download Instructions
+Download Instructions:
 ========
 
-`CLICK TO DOWNLOAD <https://github.com/user-attachments/files/19834122/RQ.zip>`_
+`CLICK TO DOWNLOAD <https://github.com/user-attachments/files/19973502/RLauncherQ.zip>`_
 
 
 1. Download the archive from the link above.
@@ -9,4 +9,3 @@ Download Instructions
 3. Run the launcher executable.
 4. Start the game.
 5. Press `Insert` to open the in-game cheat menu.
-.
